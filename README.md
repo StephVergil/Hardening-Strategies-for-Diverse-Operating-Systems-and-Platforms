@@ -101,5 +101,4 @@ By implementing these hardening strategies, organizations can ensure their envir
 
 Repository Link
 
-For detailed configuration files, scripts, and additional resources, click here:
-Explore the Full Project Documentation
+<a href="https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx" target="_blank" rel="noopener noreferrer">Explore the Full Project Documentation</a>
