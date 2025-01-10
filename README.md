@@ -53,3 +53,7 @@ Summary
 These platforms represent a diverse set of operating systems, each requiring specific strategies to enhance their security. The recommendations provided address both general security best practices and system-specific configurations to mitigate vulnerabilities and improve overall resilience.
 
 By implementing these hardening strategies, organizations can ensure their environments are protected against evolving cyber threats and maintain compliance with industry standards.
+
+Repository Link
+
+For detailed configuration files, scripts, and additional resources, visit the repository: Project Fortifying Foundations: 20 Key Hardening Strategies Across Diverse Systems
