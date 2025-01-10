@@ -99,6 +99,18 @@ These platforms represent a diverse set of operating systems, each requiring spe
 
 By implementing these hardening strategies, organizations can ensure their environments are protected against evolving cyber threats and maintain compliance with industry standards.
 
-Repository Link
+Repository Link:
 
-<a href="https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx" target="_blank" rel="noopener noreferrer">Explore the Full Project Documentation</a>
+<a href="https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx" target="_blank" rel="noopener noreferrer">Access Hardening Strategies Document</a>
+
+References:
+
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Amazon_Web_Services_Foundations_Benchmark_v1.4.0.pdf" target="_blank" rel="noopener noreferrer">CIS Amazon Web Services Foundations Benchmark v1.4.0</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Apple_iOS_14_and_iPadOS_14_Benchmark_v1.0.0_PDF.pdf" target="_blank" rel="noopener noreferrer">CIS Apple iOS 14 and iPadOS 14 Benchmark v1.0.0</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Cisco_IOS_16_Benchmark_v1.1.1.pdf" target="_blank" rel="noopener noreferrer">CIS Cisco IOS 16 Benchmark v1.1.1</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Google_Cloud_Platform_Foundation_Benchmark_v1.2.0.pdf" target="_blank" rel="noopener noreferrer">CIS Google Cloud Platform Foundation Benchmark v1.2.0</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Microsoft_Windows_10_Enterprise_Release_20H2_Benchmark_v1.10.1.pdf" target="_blank" rel="noopener noreferrer">CIS Microsoft Windows 10 Enterprise Release 20H2 Benchmark v1.10.1</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_Red_Hat_Enterprise_Linux_8_Benchmark_v1.0.1.pdf" target="_blank" rel="noopener noreferrer">CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1</a><br>
+<a href="https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/CIS_SUSE_Linux_Enterprise_15_Benchmark_v1.0.0.pdf" target="_blank" rel="noopener noreferrer">CIS SUSE Linux Enterprise 15 Benchmark v1.0.0</a>
+
+
