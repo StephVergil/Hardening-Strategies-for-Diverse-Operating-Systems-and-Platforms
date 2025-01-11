@@ -60,7 +60,7 @@ By implementing these hardening strategies, organizations can ensure their envir
 
 ## Repository Link
 
-[Access Hardening Strategies Document](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx)
+[Fortifying Foundations: 20 Key Hardening Strategies](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx)
 
 ---
 
